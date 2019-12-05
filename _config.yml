@@ -2,7 +2,7 @@
 title: sykb's
 SEOTitle: shahur的博客 | BY Blog
 header-img: img/post-bg-desk.jpg
-email: qiubaiying@gmail.com
+email: 1563237159@qq.cim
 description: "Just keep trying and exploring"
 keyword: "BY, BY Blog, shahur的博客,shahur,iPhone"
 url: "http://shahur.github.io"          # your host, for absolute URL
@@ -12,7 +12,7 @@ github_repo: "https://github.com/shahur/shahur.github.io.git" # you code reposit
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Fuck off!!!!love"
-sidebar-avatar: /img/avatar-m      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/avatar-m.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -62,11 +62,11 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: f2c84e7629bb1446c1a4                            #生成的clientID
-  clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
-  repo: qiubaiying.github.io    #仓库名称
-  owner: qiubaiying    #github用户名
-  admin: qiubaiying
+  clientID: c193e4e0c65b082f3f57                            #生成的clientID
+  clientSecret: f 059a4f5c38c4504ac5c0cbc0159509d68c1772    #生成的clientSecret
+  repo: shahur.github.io    #仓库名称
+  owner: shahur    #github用户名
+  admin: shahur
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
