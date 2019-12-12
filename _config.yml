@@ -67,6 +67,7 @@ gitalk:
   repo: shahur.github.io    #仓库名称
   owner: shahur    #github用户名
   admin: shahur
+  id: 'window.location.pathname'
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
@@ -101,15 +102,15 @@ service-worker: true
 friends: [
     {
         title: "WY",
-        href: "http://zhengwuyang.com"
+        href: "http://"
     },{
         title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
+        href: "http:/"
     },{
         title: "Apple",
-        href: "https://apple.com"
+        href: "https://"
     },{
         title: "Apple Developer",
-        href: "https://developer.apple.com/"
+        href: "https://"
     }
 ]
