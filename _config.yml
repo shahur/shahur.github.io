@@ -62,8 +62,8 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: c193e4e0c65b082f3f57                            #生成的clientID
-  clientSecret: f 059a4f5c38c4504ac5c0cbc0159509d68c1772    #生成的clientSecret
+  clientID: 9173682f36d36b9dade7                            #生成的clientID
+  clientSecret: 8b712506d28ae09105c5d31cf1db71f7d7fc0ead    #生成的clientSecret
   repo: shahur.github.io    #仓库名称
   owner: shahur    #github用户名
   admin: shahur
